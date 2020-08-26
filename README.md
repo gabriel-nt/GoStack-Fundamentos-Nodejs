@@ -46,7 +46,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Gabriel-Teixeira/GoStack-Conceitos-Nodejs
+$ git clone https://github.com/Gabriel-Teixeira/GGoStack-Fundamentos-Nodejs
 
 # Instale as dependências
 $ npm install ou yarn
