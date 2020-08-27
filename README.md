@@ -24,11 +24,11 @@
 </h3>
 
 ### 📌 Desafio e Conhecimento
-Neste desafio, colocamos em prática os ensinamos sobre arquitetura de projetos em prática. O back-end foi separado
+Neste desafio, colocamos em prática os ensinamos sobre arquitetura de projetos. O back-end foi separado
 por responsabilidades, onde cada arquivo mantinha as suas determinadas funções. 
 <br/>
 Por exemplo, a pasta de Models contém o formato 
-de uma entidade/modelo, já os repositórios ficam a conexão com um banco de dados (ex) e a aplicação. Nos serviços, ficam toda a
+de uma entidade/modelo, já os repositórios ficam a conexão com um banco de dados (por exemplo) e a aplicação. Nos serviços, ficam toda a
 regra de negócio da aplicação e por fim, as rotas só tem o trabalho de receber e retornar os dados.
 
 ### 📎 Features
